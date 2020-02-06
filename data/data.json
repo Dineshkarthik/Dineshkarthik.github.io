@@ -1,0 +1,69 @@
+{
+    "experience":[
+        {
+            "type":"Work",
+            "institution":"Tata Consultancy Services",
+            "title":"Developer",
+            "from":"2014-03-06",
+            "to":"2016-07-30",
+            "description":"Social Media and Workplace Re-imagination: \n Developed tools in multiple languages such as Ruby, Python and SQL to automate ETL tasks, wrote internal libraries in Python & Ruby to assist ETL.\nBuilt​ a standalone​ one​ place​ analytics dashboard using Apache Spark for enterprise level​ communication and collaboration​ application.​\nTechnologies involved Apache Spark – Spark Streaming,​ Amazon​ Kinesis​ Streams, Cassandra.",
+            "default_item":false
+        },
+        {
+            "type":"Work",
+            "institution":"Gramener - A Data Science Company",
+            "title":"Data Specialist",
+            "from":"2016-08-01",
+            "to":"2017-01-13", 
+            "description":"Responsible for analysing data and providing meaningful insights for data driven decision making using Data Visualization. \n Python being used as backend, visualizations using D3.js and dashboards made using Bootstrap, JQuery, Underscore.js",
+            "default_item":false
+        },
+        {
+            "type":"Work",
+            "institution":"TVFPlay",
+            "title":"Senior Software Engineer",
+            "from":"2017-01-17",
+            "to":"2018-01-31", 
+            "description":"Senior Software Engineer, Data & BI. \n Responsibel for Data Pipeline, Data Quality. Developed​ and maintained data pipeline, primary tools were Python, PySpark, Kafka, Presto, Kibana, Apache Airflow.\nBuilt recommendation​ engine​ to​ enhance​ user​ ​experience using PySpark. Wrote ETL jobs and services to consume data from databases.\n AB Testing: Data Driven Decision making, analysing​ data​ and providing meaningful insights​ , develop reporting for cross functional use within the company",
+            "default_item":false
+        },
+        {
+            "type":"Work",
+            "institution":"Stylight",
+            "title":"Data Engineer",
+            "from":"2018-02-07",
+            "to":"2019-08-31",
+            "description":"Responsible for all the data pipelines, ETLs owned by the team. Develop and maintain workflow management using Apache airflow.\nMaintain data warehouse - Amzaon Redshift along with related internal processing and importing tools ",
+            "default_item":false
+        },
+        {
+            "type":"Work",
+            "institution":"Spark Network SE",
+            "title":"Data Engineer",
+            "from":"2019-09-01",
+            "to": "2019-12-31",
+            "description": "Data Engineer responsible for DWH in Snowflake Cloud Datawarehouse",
+            "default_item":false
+        },
+        {
+            "type":"Work",
+            "institution":"Zalando SE",
+            "title":"Senior Data Engineer",
+            "from":"2020-01-01",
+            "to": null,
+            "description": "Working on solving new data challenges",
+            "default_item":true
+        }
+    ],
+    "study":[
+        {
+            "type":"Education",
+            "institution":"SRM - Valliamami Engineering College",
+            "title":"Bachelor of Engineering - Computer Science and Engineering",
+            "from":"2009-08-01",
+            "to":"2013-07-30",
+            "description":"",
+            "default_item":false
+        }
+    ]
+}

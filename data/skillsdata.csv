@@ -1,0 +1,43 @@
+id,value,color
+DK,
+DK.Front-End,
+DK.Front-End.HTML & CSS / Bootstrap,3,#E54F24
+DK.Front-End.JavaScript,
+DK.Front-End.JavaScript.JavaScript,3,#D6BA33
+DK.Front-End.JavaScript.JQuery,3.5,#1169AE
+DK.Front-End.JavaScript.D3 js,3.5 ,#F6854D
+DK.Programing Language,
+DK.Programing Language.Python,
+DK.Programing Language.Python.Flask - Tornado,3,#EB2C2F
+DK.Programing Language.Python.Pandas - Scipy - Numpy - Matploit - SKlearn,4,#617CBE
+DK.Programing Language.Ruby,
+DK.Programing Language.Ruby.Ruby-on-Rails,3,#6DB33F
+DK.Programing Language.Scripting,
+DK.Programing Language.Scripting.Shell,2.5,#563B7E
+DK.Data Engineering,
+DK.Data Engineering.Big Data,
+DK.Data Engineering.Big Data.Apache Spark - pyspark,3,#59666C
+DK.Data Engineering.Big Data.Presto,3.5,#F6954D
+DK.Data Engineering.Data Warehouse,
+DK.Data Engineering.Data Warehouse.Amazon Redshift,4,#808080
+DK.Data Engineering.Data Warehouse.Google Biq-Query,3,#C5A7A1
+DK.Data Engineering.Workflow Management,
+DK.Data Engineering.Workflow Management.Apache Airflow,4,#FF9900
+DK.DevOps,
+DK.DevOps.Docker,3.5,#524B6E
+DK.DevOps.Kubernetes,3.5,#4E7C93
+DK.DevOps.Continuous Integration,
+DK.DevOps.Continuous Integration.Circle CI,4,#60934E
+DK.Revision Control System,
+DK.Revision Control System.GIT,4,#0073AD
+DK.Revision Control System.SVN,3,#005F0F
+DK.Databases,
+DK.Databases.PostgreSQL,3.5,#E58E00
+DK.Databases.MySQL,3,#00618A
+DK.Hosting / Deployment,
+DK.Hosting / Deployment.Amazon Web Services,4,#808080
+DK.Hosting / Deployment.Heroku,3,#717130
+DK.Tools,
+DK.Tools.Jupyter Notebook,4,#00A0D2
+DK.Tools.Tableau,2.5,#0678BE
+DK.Tools.Kibana,3,#063D7E
