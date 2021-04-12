@@ -50,8 +50,17 @@
             "institution":"Zalando SE",
             "title":"Senior Data Engineer",
             "from":"2020-01-01",
+            "to": "2021-02-28",
+            "description": "Building and improving a configuration-based format for managing our complex data pipelines in Apache Airflow - Declarative Data Pipeline Definition.\nData Pipeline built using Apache Airflow, Databricks, Apache Spark, Amazon Deequ, AWS Redshift.",
+            "default_item":false
+        },
+        {
+            "type":"Work",
+            "institution":"Sennder GmbH",
+            "title":"Senior Data Engineer",
+            "from":"2021-03-01",
             "to": null,
-            "description": "Working on solving new data challenges",
+            "description": "Working on Distributed Event Driven Systems",
             "default_item":true
         }
     ],
