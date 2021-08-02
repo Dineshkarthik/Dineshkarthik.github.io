@@ -21,6 +21,10 @@ DK.Data Engineering.Big Data.Presto,3.5,#F6954D
 DK.Data Engineering.Data Warehouse,
 DK.Data Engineering.Data Warehouse.Amazon Redshift,4,#808080
 DK.Data Engineering.Data Warehouse.Google Biq-Query,3,#C5A7A1
+DK.Data Engineering.Data Warehouse.Snowflake,3,#8DBFF0
+DK.Data Engineering.Event Streaming,
+DK.Data Engineering.Event Streaming.Apache Kafka,4,#10E61B
+DK.Data Engineering.Event Streaming.AWS Kinesis,3.5,#5E5335
 DK.Data Engineering.Workflow Management,
 DK.Data Engineering.Workflow Management.Apache Airflow,4,#FF9900
 DK.DevOps,
