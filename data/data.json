@@ -51,7 +51,7 @@
             "title":"Senior Data Engineer",
             "from":"2020-01-01",
             "to": "2021-02-28",
-            "description": "Building and improving a configuration-based format for managing our complex data pipelines in Apache Airflow - Declarative Data Pipeline Definition.\nData Pipeline built using Apache Airflow, Databricks, Apache Spark, Amazon Deequ, AWS Redshift.",
+            "description": "Build and enhanced a configuration-based format for managing our complex data pipelines in Apache Airflow - Declarative Data Pipeline Definition.\nData Pipeline built using Apache Airflow, Databricks, Apache Spark, Amazon Deequ, AWS Redshift.",
             "default_item":false
         },
         {
@@ -59,8 +59,17 @@
             "institution":"Sennder GmbH",
             "title":"Senior Data Engineer",
             "from":"2021-03-01",
+            "to": "2021-07-31,
+            "description": "Crafted the Data governance process for the Snowflake DWH and KSQL maintained by the team.\nBuilt and maintianed the distributed event driven system using Kafka.",
+            "default_item":false
+        },
+        {
+            "type":"Work",
+            "institution":"Tesla - Gigafactory Berlin",
+            "title":"Senior Data Engineer",
+            "from":"2021-08-01",
             "to": null,
-            "description": "Working on Distributed Event Driven Systems",
+            "description": "Solving new challenges.",
             "default_item":true
         }
     ],
