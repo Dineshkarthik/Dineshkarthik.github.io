@@ -59,7 +59,7 @@
             "institution":"Sennder GmbH",
             "title":"Senior Data Engineer",
             "from":"2021-03-01",
-            "to": "2021-07-31,
+            "to": "2021-07-31",
             "description": "Crafted the Data governance process for the Snowflake DWH and KSQL maintained by the team.\nBuilt and maintianed the distributed event driven system using Kafka.",
             "default_item":false
         },
