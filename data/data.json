@@ -66,10 +66,10 @@
         {
             "type":"Work",
             "institution":"Tesla - Gigafactory Berlin",
-            "title":"Senior Data Engineer",
+            "title":"Staff Data Engineer",
             "from":"2021-08-01",
             "to": null,
-            "description": "Solving new challenges.",
+            "description": "Solving manufacturing data challenges and on a mission to accelerate the world's transition to sustainable energy.",
             "default_item":true
         }
     ],
