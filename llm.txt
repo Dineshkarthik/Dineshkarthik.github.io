@@ -1,0 +1,20 @@
+# Dineshkarthik Raveendran (DK) - Personal Portfolio
+
+> Learner | Engineer | ML Enthusiast | Software Craftsman passionate about data solutions, machine learning, and open-source projects.
+
+## Main Sections
+- https://dineshkarthik.me/about
+- https://dineshkarthik.me/skills
+- https://dineshkarthik.me/experience
+- https://dineshkarthik.me/contact
+
+## Featured Projects
+- Telegram Media Downloader: https://github.com/dineshkarthik/telegram-media-downloader
+- Real-time IoT Data Streaming: https://itnext.io/real-time-iot-data-streaming-elk-stack
+- WhatsApp Analyzer: https://github.com/dineshkarthik/WhatsApp-Analyzer
+- Tweetalyzer: https://github.com/dineshkarthik/Tweetalyzer
+- Json Generator API: https://github.com/dineshkarthik/json-generator-api
+
+## Contact
+- Email: hello@dineshkarthik.me
+- Location: Berlin, Germany
